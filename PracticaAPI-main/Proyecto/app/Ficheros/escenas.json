@@ -1,0 +1,27 @@
+[
+    {"id":100,
+      "nombre": "Escena 1",
+      "duración": "3 minutos",
+      "idPelicula": 1
+    },
+    {"id":102,
+      "nombre": "Escena 2",
+      "duración": "5 minutos",
+      "idPelicula": 2
+    },
+    {"id":103,
+      "nombre": "Escena 3",
+      "duración": "2 minutos",
+      "idPelicula": 3
+    },
+    {"id":105,
+      "nombre": "Escena 4",
+      "duración": "4 minutos",
+      "idPelicula": 2
+    },
+    {"id":104,
+      "nombre": "Escena 5",
+      "duración": "6 minutos",
+      "idPelicula": 1
+    }
+  ]
